@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <a href="https://probot.github.io"><img src="/static/robot.svg" width="160" alt="Probot's logo, a cartoon robot" /></a>
 </p>
 <h3 align="center"><a href="https://probot.github.io">Probot</a></h3>
